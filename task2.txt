@@ -1,2 +1,7 @@
 abcd
+<<<<<<< HEAD
 added additional line
+=======
+updated from Dev 
+This is input from Dev
+>>>>>>> Dev
